@@ -1,4 +1,4 @@
-# Dreaming of You
+# Scans
 
 ## Problem Description
 
