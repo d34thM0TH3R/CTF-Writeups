@@ -12,7 +12,7 @@ Use the packet capture from Scans.
 
 Examining the same TCP stream we see an existing file being edited.
 
-![PCAP showing a file being edited](fileEdited.PNG "File being edited")
+![PCAP showing a file being edited](fileEdit.PNG "File being edited")
 
 The file "backup.py" was copied, moved, and edited. 
 The attacker added code to open a socket and allow them to run "/bin/bash". This code was saved in a variable `cmd`. 
