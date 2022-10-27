@@ -65,5 +65,5 @@ flag{1t-Iz-n0-Us3-Sh3ll-C0de}
 
 
 * This is where I got the code to decode the Shikata Ga Nai payload.  
-** The code is from [this](https://www.kali.org/docs/containers/installing-docker-on-kali/) website.
-*** The files will need to be downloaded, you can get them from the "Files" folder in the same folder as this file.
+** The code is from [this](https://www.kali.org/docs/containers/installing-docker-on-kali/) website.  
+*** The files will need to be downloaded, you can get them from the "Files" folder in the same folder as this file.  
