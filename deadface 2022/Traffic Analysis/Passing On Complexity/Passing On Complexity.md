@@ -19,6 +19,8 @@ The TCP stream shows what looks like someone who just got access to a system. Sc
 
 ![PCAP with backup password](backupPassword.PNG "Backup password shown")
 
+The python code `-u backup -pbackup123` indicates the backup user has the password "backup123".
+
 ## Flag
 
 flag{backup123}
