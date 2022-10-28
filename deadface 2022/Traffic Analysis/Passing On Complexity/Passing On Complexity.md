@@ -10,14 +10,17 @@ Use the packet capture from Scans.
 
 ## Write Up
 
-The problem tells us we are looking for the backup user's password, so searching the file with `tcp contains "backup"` gives us this result.
+The problem tells us we are looking for the backup user's password, so searching the file with this filter `tcp contains "backup"` gives us the below result.
 
 ![PCAP filtered for backup](backupFiltered.PNG "Backup filter in place")
 
 
-The TCP stream shows what looks like someone who just got access to a system. Scrolling to the bottom of the stream a script is executed containing the password.
+
+Following the TCP stream shows us what was happening in the stream. The commands ran look like someone who just got access to a system. Scrolling to the bottom of the stream a script is executed containing the password.
 
 ![PCAP with backup password](backupPassword.PNG "Backup password shown")
+
+
 
 The python code `-u backup -pbackup123` indicates the backup user has the password "backup123".
 
