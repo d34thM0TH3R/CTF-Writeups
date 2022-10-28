@@ -12,3 +12,4 @@ The order of the challenges in the CTF are:
 8. SHAshank Redemption
 9. Intercepted
 
+If there are terms you do not understand, I suggest doing more research on them until you learn enough about them to be comfortable with how much you know.
