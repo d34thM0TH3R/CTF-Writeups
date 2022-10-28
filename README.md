@@ -1,7 +1,7 @@
 # CTF-Writeups
 
 ## Navigation
-[Deadface 2022](/deadface 2022)
+[Deadface 2022]("deadface 2022")
 
 "deadface 2022" contains writeups for some of the Deadface 2022 CTF challenge.  
 If you want to do the challenges you will need to create an account with Deadface.
