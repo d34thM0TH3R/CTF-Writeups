@@ -12,7 +12,7 @@ Use the packet capture from Scans.
 
 Applying a filter of `tcp contains "web"`, we see there a very few packets left, with most of them being in the same stream.
   
-Following the stream the flag is very obvious, with it being echoed on the web server.
+After following the stream, the flag is very obvious, with it being echoed on the web server.
 
 ![PCAP showing the echoed flag](webFiltered.PNG "Flag being echoed on the web server")
 
