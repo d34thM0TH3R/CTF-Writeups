@@ -11,7 +11,8 @@ SHA1:9bbff45efa2d6b6692a3d05dd84d92cb201630fc
 ## Write Up
 
 The PCAP file has 9 packets with one of them significantly larger than the others.  
-The data of the largest packet consists of a lot of 0x90 hex bytes, which is also known as a NOP sled.  
+The data of the largest packet consists of a lot of 0x90 hex bytes followed by a bunch of other bytes.
+The 0x90 bytes known as a No Operation (NOP) sled, as they perform no operation.  
 NOP sleds are used as part of the code for a buffer overflow attack.  
 The bytes after the NOP sled are what we will need.
 
@@ -70,7 +71,7 @@ The flag can be seen in the output.
 flag{1t-Iz-n0-Us3-Sh3ll-C0de}
 
 
-/* This is where I got the code to decode the Shikata Ga Nai payload.  
+&ast; This is where I got the code to decode the Shikata Ga Nai payload.  
 ** The code is from [this](https://www.kali.org/docs/containers/installing-docker-on-kali/) website.  
 *** The files will need to be downloaded, you can get them from the "Files" folder in the same folder as this file.  
 **** I used the same document from the * note to get this code.   
