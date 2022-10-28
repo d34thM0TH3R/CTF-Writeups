@@ -10,10 +10,12 @@ Use the file from Scans.
 
 ## Write Up
 
-In the last challenge, Passing on Complexity, the traffic showed someone who had used a shell to find the backup users password.
-So examining the same TCP stream the shell name is at the top.
+In the last challenge, Passing on Complexity, the traffic showed someone who had used a shell to find the backup users password.  
+Examining the same TCP stream the shell name can be seen at the top.
 
 ![PCAP showing shell name](Shells.PNG "Shell name shown")
+
+
 
 After doing some googling the shell is confirmed to be "b374k".
 
