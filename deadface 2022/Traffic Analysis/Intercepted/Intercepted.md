@@ -10,6 +10,8 @@ SHA1:9bbff45efa2d6b6692a3d05dd84d92cb201630fc
 
 ## Write Up
 
+<b>I used Kali Linux, and this solution will not work on non-Linux systems.</b>
+
 The PCAP file has 9 packets with one of them significantly larger than the others.  
 The data of the largest packet consists of a lot of 0x90 hex bytes followed by a bunch of other bytes.
 The 0x90 bytes known as a No Operation (NOP) sled, as they perform no operation.  
