@@ -10,12 +10,14 @@ Use the packet capture from Scans.
 
 ## Write Up
 
-Filtering the PCAP with `tcp contains "user"` displays only a few packets.
-Following the stream of any of the packets will show the user "areed2022" being added.
+Filtering the PCAP with `tcp contains "user"` displays only a few packets.  
+Following the stream of these packets will show the user "areed2022" being added.
 
 ![PCAP showing user being added](userAdd.PNG "User being added")
 
-The user "areed2022" was successfully added to the mysql database.
+
+
+The user "areed2022" was successfully added to the mysql database.  
 There was also an attempt to add a user "dlewis" to the system, though this is just a red herring.
 
 ## Flag
