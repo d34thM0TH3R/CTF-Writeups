@@ -13,8 +13,12 @@ The PCAP file DeadfacePCAP.pcapng is provided and can be opened with wireshark.
 The opened PCAP file should look similar to the image below.  
 ![Opened PCAP file](Opened_PCAP.PNG "Opened PCAP file")
 
+
+
 Adding a display filter of `tcp contains "flag"` will display only one packet containg the term "flag". The packet uses the Telnet protocol, so it transmits data in plaintext.  
 ![PCAP filtered for the flag](Filtered_PCAP.PNG "PCAP filtered for the flag")
+
+
 
 The packet can be opened to find the flag.  
 ![PCAP packet with flag](Opened_PCAP_Packet.PNG "PCAP packet with flag")
