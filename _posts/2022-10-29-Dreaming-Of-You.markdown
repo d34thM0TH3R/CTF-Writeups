@@ -11,7 +11,7 @@ SHA1: 1c99dee5307143e7dad0f0a19e58ad431eb5b8ce
 
 The PCAP file DeadfacePCAP.pcapng is provided and can be opened with wireshark.  
 The opened PCAP file should look similar to the image below.  
-![Opened PCAP file](Opened_PCAP.PNG "Opened PCAP file")
+![Opened PCAP file](../deadface 2022/ Traffic Analysis/ Dreaming of You/Opened_PCAP.PNG "Opened PCAP file")
 
 
 
