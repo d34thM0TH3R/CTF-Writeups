@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # Scans
 
 ## Problem Description
