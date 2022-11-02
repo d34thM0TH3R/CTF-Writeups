@@ -4,7 +4,7 @@
 
 The order of the challenges in the CTF are:
 
-1. [Dreaming of You](_Dreaming%20of%20You/Dreaming%20of%20You.md)
+1. [Dreaming of You](_Dreaming%20of%20You/)
 2. Scans
 3. Passing on Complexity
 4. Shells
