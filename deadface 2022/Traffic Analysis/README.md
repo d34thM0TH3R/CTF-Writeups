@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # Traffic Analysis
 
 The order of the challenges in the CTF are:
