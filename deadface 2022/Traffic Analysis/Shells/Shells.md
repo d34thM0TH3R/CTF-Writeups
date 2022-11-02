@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # Shells
 
 ## Problem Description
