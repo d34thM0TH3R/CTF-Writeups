@@ -3,6 +3,9 @@ exclude: true
 ---
 # Intercepted
 
+## Files for problem
+[Explanation and files](../Files/Files.html)
+
 ## Problem Description
 
 We intercepted an attack against the host finance1. Please help us figure out what the attack was supposed to do. The flag will be in the format flag{here-is-the-answer}.
