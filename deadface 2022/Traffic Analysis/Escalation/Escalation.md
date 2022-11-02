@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # Escalation
 
 ## Problem Description
