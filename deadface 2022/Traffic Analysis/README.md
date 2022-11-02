@@ -1,4 +1,6 @@
-# Writeups
+# Deadface 2022
+
+## Traffic Analysis
 
 The order of the challenges in the CTF are:
 
