@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # The Root of All Evil
 
 ## Problem Description
