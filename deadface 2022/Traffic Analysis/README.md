@@ -1,4 +1,4 @@
-# Order of Writeups
+# Writeups
 
 The order of the challenges in the CTF are:
 
