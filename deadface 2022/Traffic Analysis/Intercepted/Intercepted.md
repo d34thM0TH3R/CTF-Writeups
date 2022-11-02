@@ -4,7 +4,7 @@ exclude: true
 # Intercepted
 
 ## Files for problem
-[Explanation and files](../Files/Files.html)
+[Explanation and files](../Files/)
 
 ## Problem Description
 
