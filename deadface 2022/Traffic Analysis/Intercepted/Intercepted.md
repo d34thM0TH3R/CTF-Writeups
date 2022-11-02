@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # Intercepted
 
 ## Problem Description
