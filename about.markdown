@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[Deadface 2022](deadface%202022/README.markdown)
+[Deadface 2022](deadface%202022)
 
 
 
