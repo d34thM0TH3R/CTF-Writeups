@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # Warnings
 
 Allow of these files will trip native virus detection in Windows.
