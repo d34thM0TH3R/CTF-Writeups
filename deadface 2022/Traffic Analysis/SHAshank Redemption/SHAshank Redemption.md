@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # SHAshank Redemption
 
 ## Problem Description
