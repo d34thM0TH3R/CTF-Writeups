@@ -1,3 +1,5 @@
-This is the folder containing all of the writeups for deadface 2022 I have done.
+#Deadface 2022
 
-[Traffic Analysis](Traffic%20Analysis/README.md)
+Here are the categories for the CTF, click on each link to see the challenges for each section.
+
+[Traffic Analysis](Traffic%20Analysis)
