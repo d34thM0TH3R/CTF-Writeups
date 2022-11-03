@@ -11,13 +11,13 @@ permalink: /about/
 
 
 
-Welcome to my site for CTF writeups!
+Welcome to my site for CTF writeups!  
 
-I try to keep this organzied, and update it periodically.
-
-
+I try to keep this organzied, and update it periodically.  
 
 
+
+THIS IS A WIP.  
 
 
 
