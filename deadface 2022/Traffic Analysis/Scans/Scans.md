@@ -1,10 +1,9 @@
 ---
 exclude: true
 ---
+# Scans
 
 [deadface 2022](..)  
-
-# Scans
 
 ## Problem Description
 
