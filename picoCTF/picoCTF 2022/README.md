@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 # picoCTF 2022
 
 This has the links to each category for picoCTF.  
