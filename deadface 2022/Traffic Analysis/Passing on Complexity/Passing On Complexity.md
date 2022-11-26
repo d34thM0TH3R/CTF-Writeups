@@ -1,10 +1,9 @@
 ---
 exclude: true
 ---
+# Passing On Complexity
 
 [deadface 2022](..)  
-
-# Passing On Complexity
 
 ## Problem Description
 
