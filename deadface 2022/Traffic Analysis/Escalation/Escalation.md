@@ -3,6 +3,8 @@ exclude: true
 ---
 # Escalation
 
+[deadface 2022](..)  
+
 ## Problem Description
 
 Somehow, the attacker was able to gain root access to the web server. We believe the attacker leveraged an existing file to gain root access. What file was modified to allow the attacker to gain root on the web server?  
