@@ -1,10 +1,9 @@
 ---
 exclude: true
 ---
+# Escalation
 
 [deadface 2022](..)  
-
-# Escalation
 
 ## Problem Description
 
