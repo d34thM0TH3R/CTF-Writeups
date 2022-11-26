@@ -1,10 +1,9 @@
 ---
 exclude: true
 ---
+# Intercepted
 
 [deadface 2022](..)  
-
-# Intercepted
 
 ## Files for problem
 [Explanation and files](../Files/README.html)
