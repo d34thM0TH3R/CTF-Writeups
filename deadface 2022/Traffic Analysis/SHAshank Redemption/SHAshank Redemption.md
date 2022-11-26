@@ -1,10 +1,9 @@
 ---
 exclude: true
 ---
+# SHAshank Redemption
 
 [deadface 2022](..)  
-
-# SHAshank Redemption
 
 ## Problem Description
 
